@@ -16,6 +16,7 @@ To add a loopback exemption, simply type `CheckNetIsolation LoopbackExempt -a -n
 If local, open command prompt and type ipconfig, you'll then want to access your router and setup ipv4/ipv6 portforwarding on port 3000 to the ip address specified by the command. 
 <br><br><br>
 ## Change Log
+Changes and updates will be noted here
 <br>
-#### V1.0.0
+### V1.0.0
 Server Script created, but plans for an auto connector are planned to allow for easier connection.
