@@ -17,5 +17,5 @@ If local, open command prompt and type ipconfig, you'll then want to access your
 <br><br><br>
 ## Change Log
 <br>
-### V1.0.0
+#### V1.0.0
 Server Script created, but plans for an auto connector are planned to allow for easier connection.
