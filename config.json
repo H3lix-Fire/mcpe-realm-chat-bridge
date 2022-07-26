@@ -1,0 +1,7 @@
+{
+  "token": "bot token here",
+  "prefix": "prefix incase you add commands.",
+  "socket_ip": "local ip to host web socket.",
+  "owner_id": "id of bot owner, incase you wish to add owner only commands.",
+  "link_channel": "channel id that messages will be sent to."
+}
